@@ -354,14 +354,14 @@
 .contacts {
     margin-top: -20px;
 }
-.swiper-container {
+/* .swiper-container {
     height: 500px;
     background-color: #10c9c3;
     color: #ffffff;
     justify-content: center;
     text-align: center;
-    /* flex-direction: row; */
-    align-items: center;
+    flex-direction: row;
+     align-items: center;
     font-family: 'Montserrat', sans-serif;
 
   }
@@ -370,7 +370,7 @@
   }
   .swiper-slide {
       min-width: 0;
-  }
+  } */
   .modal{
     position: fixed;
     top: 0;
@@ -435,4 +435,16 @@
 .modal-block .button:hover{
     background-color: white;
     color:  #10c9c3;
+}
+
+.your-class {
+    padding: 150px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.show {
+    display: flex;
+}
+.hide {
+    display: hidden;
 }
