@@ -448,3 +448,6 @@
 .hide {
     display: none;
 }
+.slider-slick {
+    max-width: 100%;
+}
