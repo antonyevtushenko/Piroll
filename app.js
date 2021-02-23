@@ -32,7 +32,7 @@ modal.addEventListener("click", function(e){
     }
 })
 
-$(".your-class").slick({
+$(".slick-slider").slick({
     dots: true,
     infinite: true,
     speed: 500,

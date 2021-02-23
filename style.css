@@ -437,7 +437,7 @@
     color:  #10c9c3;
 }
 
-.your-class {
+.slick-slider {
     padding: 150px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -446,5 +446,5 @@
     display: flex;
 }
 .hide {
-    display: hidden;
+    display: none;
 }
